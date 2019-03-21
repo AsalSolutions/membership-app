@@ -147,9 +147,9 @@ Now, we'll load it in our template and use it
 
 ### Contributors
 
-Amin Abdisamad <theaminux@gmail.com>
+Amin Abdisamad <theaminux@gmail.com>, Abdullahi behi <abdullahi.behi@gmail.com>
 
 ### Copyright and License
 
-© AMIN ABDISAMAD, ASAL SOLUTIONS
+© Membership Application, ASAL SOLUTIONS
 licensed under [MIT License](LICENSE)
