@@ -145,10 +145,6 @@ Now, we'll load it in our template and use it
 {{ form|crispy }}
 ```
 
-### Contributors
-
-Amin Abdisamad <theaminux@gmail.com>, Abdullahi behi <abdullahi.behi@gmail.com>
-
 ### Copyright and License
 
 © Membership Application, ASAL SOLUTIONS
